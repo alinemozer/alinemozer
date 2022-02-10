@@ -18,7 +18,7 @@ Sejam bem-vindos ao meu perfil, e fiquem á vontade para contribuir da maneira q
  
  <br> 
  
- 🙋🏽‍♀️ Para contato, verifiquem minhas redes. 
+ 🙋🏽‍♀️ Para contato, verifiquem minhas redes: 
   
 <div> 
   <a href="https://instagram.com/alinemozer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
