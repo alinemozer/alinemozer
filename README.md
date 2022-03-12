@@ -1,4 +1,4 @@
-## Oi! 🤗
+## Oi! 🤗 <img align="right" alt="Aline-pic" height="150" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
 ### Para contato, verifiquem minhas redes:
 
 ### Sou uma mãe e dona de casa, que resolveu se aventurar no mundo da programação! ❤
