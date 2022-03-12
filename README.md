@@ -1,4 +1,5 @@
 ## Oi! 🤗
+### Para contato, verifiquem minhas redes:
 
 ### Sou uma mãe e dona de casa, que resolveu se aventurar no mundo da programação! ❤
 
@@ -21,6 +22,7 @@
 <div>
    <a href="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="mailto:alinemozer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <img align="right" alt="Aline-pic" height="150" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
   
 ![Snake animation](https://github.com/alinemozer/alinemozer/blob/output/github-contribution-grid-snake.svg)
 </div>
