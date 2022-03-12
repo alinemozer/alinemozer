@@ -1,4 +1,3 @@
-<div>
 ## Oi! 🤗
 
 ### Sou uma mãe e dona de casa, que resolveu se aventurar no mundo da programação! ❤
@@ -6,9 +5,7 @@
 ### 🤓 Atualmente estudando o módulo avançado de HTML e CSS. Buscando sempre um código limpo e de qualidade.
 
 ### Sejam bem-vindos ao meu perfil, e fiquem á vontade para contribuir da maneira que desejarem e puderem! 😊
-  <img align="right" alt="Aline-pic" height="150" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
-</div>
-
+ 
 <div>
   <a href="https://github.com/alinemozer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinemozer&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -21,7 +18,7 @@
  
  <br> 
  
- ## 🙋🏽‍♀️ Para contato, verifiquem minhas redes: 
+<img align="left" alt="Aline-pic" height="150" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%"</img> ## Para contato, verifiquem minhas redes: 
   
 <div>
    <a href="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
