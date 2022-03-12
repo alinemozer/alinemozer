@@ -6,7 +6,7 @@
 ### 🤓 Atualmente estudando o módulo avançado de HTML e CSS. Buscando sempre um código limpo e de qualidade.
 
 ### Sejam bem-vindos ao meu perfil, e fiquem á vontade para contribuir da maneira que desejarem e puderem! 😊
- 
+   <img align="right" alt="Aline-pic" height="150" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
 <div>
   <a href="https://github.com/alinemozer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinemozer&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -16,7 +16,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Aline-pic" height="150" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
 </div>
  
  <br> 
