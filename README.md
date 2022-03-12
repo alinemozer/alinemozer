@@ -5,6 +5,7 @@
 ### 🤓 Atualmente estudando o módulo avançado de HTML e CSS. Buscando sempre um código limpo e de qualidade.
 
 ### Sejam bem-vindos ao meu perfil, e fiquem á vontade para contribuir da maneira que desejarem e puderem! 😊
+<a href="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.pngtarget="_blank"><img src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png"</a>
 
 <div>
   <a href="https://github.com/alinemozer">
