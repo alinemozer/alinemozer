@@ -1,8 +1,8 @@
 ## Oi! 🤗 <img align="right" alt="Aline-pic" height="150" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
 
-### Sou uma mãe e dona de casa, que resolveu se aventurar no mundo da programação! ❤
+### Sou uma mãe e dona de casa, <br> que resolveu se aventurar no mundo da programação! ❤
 ### 🤓 Atualmente estudando o módulo avançado de HTML e CSS. <br> Buscando sempre um código limpo e de qualidade.
-### Sejam bem-vindos ao meu perfil, e fiquem á vontade para contribuir da maneira que desejarem e puderem! 😊
+### Sejam bem-vindos ao meu perfil, <br> e fiquem á vontade para contribuir da maneira que desejarem e puderem! 😊
 
 ### 🙋🏽‍♀️ Para contato, verifiquem minhas redes. 
 
