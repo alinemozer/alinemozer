@@ -21,8 +21,8 @@
   
 <div>
    <a href="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href ="mailto:alinemozer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href ="https://www.instagram.com/alinemozer/"><img src="https://img.shields.io/badge/Instagram-bc3280?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="mailto:alinemozer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="https://www.instagram.com/alinemozer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc3280?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 
   
