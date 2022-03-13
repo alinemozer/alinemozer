@@ -1,7 +1,7 @@
 ## Oi! 🤗
-### Sou uma mãe e dona de casa, <br> que resolveu se aventurar no mundo da programação! ❤
-### 🤓 Atualmente estudando o módulo avançado de HTML e CSS. <br> Buscando sempre um código limpo e de qualidade.
-### Sejam bem-vindos ao meu perfil, e fiquem á vontade para contribuir <br> da maneira que desejarem e puderem! 😊
+### ❤ Sou uma mãe e dona de casa, <br> que resolveu se aventurar no mundo da programação! ❤
+### 🤓 Atualmente estudando o módulo avançado de HTML e CSS. <br> Buscando sempre um código limpo e de qualidade. 🤓
+### 😊 Sejam bem-vindos ao meu perfil, e fiquem á vontade para contribuir <br> da maneira que desejarem e puderem! 😊
 
 <div style="display: inline_block">
   <a href="https://github.com/alinemozer">
@@ -17,7 +17,7 @@
   <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-<h3>🙋‍♀ Para contato, <br> clique com o scroll do mouse e acesse minhas redes em outra aba:</h3>
+<h3> 🖱 Para contato, <br> clique com o scroll do mouse e acesse minhas redes em outra aba: 🖱</h3>
   
 <div>
    <a href ="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
