@@ -1,7 +1,7 @@
 ## Oi! 🤗
 #### ❤ Sou uma mãe e dona de casa, <br> que resolveu se aventurar no mundo da programação! ❤
 #### 🤓 Atualmente estudando os módulos avançados de HTML e CSS. <br> Buscando sempre um código limpo e de qualidade. <br> Seguindo os estudos por Javascript e React. 🤓
-#### 😊 Sejam muito bem-vindos ao meu perfil! <br> Fiquem á vontade para contribuir da maneira que desejarem! 😊
+#### 😊 Sejam muito bem-vindos ao meu perfil! <br> Fiquem á vontade para contribuirem da maneira que desejarem! 😊
 
 <div style="display: inline_block">
   <a href="https://github.com/alinemozer">
