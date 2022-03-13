@@ -19,7 +19,7 @@
   
  <br>
   
-<span class="cm-header cm-header-3">🙋‍♀ Para contato, verifique minhas redes. </span>
+<h3 style="color: purple">🙋‍♀ Para contato, verifique minhas redes.</h3>
   
 <div>
    <a href="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white"></a>
