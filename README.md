@@ -14,7 +14,7 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div> 
- <br> 
+
 <h3>🙋‍♀ Para contato, verifique minhas redes:</h3>
   
 <div>
