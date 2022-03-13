@@ -5,7 +5,7 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/alinemozer">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinemozer&layout=compact&langs_count=6&theme=calm"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinemozer&layout=compact&langs_count=6&theme=calm"/>
 </div>
   
   <br>
