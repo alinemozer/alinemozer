@@ -1,6 +1,4 @@
-## Oi! 🤗 <img align="right" alt="Aline-pic" height="150" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
-
+## Oi! 🤗
 ### Sou uma mãe e dona de casa, <br> que resolveu se aventurar no mundo da programação! ❤
 ### 🤓 Atualmente estudando o módulo avançado de HTML e CSS. <br> Buscando sempre um código limpo e de qualidade.
 ### Sejam bem-vindos ao meu perfil, <br> e fiquem á vontade para contribuir da maneira que desejarem e puderem! 😊
@@ -27,5 +25,10 @@
   <a href ="https://www.instagram.com/alinemozer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc3280?style=for-the-badge&logo=instagram&logoColor=white"></a>
   
 ![Snake animation](https://github.com/alinemozer/alinemozer/blob/output/github-contribution-grid-snake.svg)
+</div>
+  
+<div>
+  <img align="right" alt="Aline-pic" height="150" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
 </div>
   
