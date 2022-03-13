@@ -6,12 +6,11 @@
 <div>
   <a href="https://github.com/alinemozer">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinemozer&layout=compact&langs_count=6&theme=calm"/>
-   <div align="right" style="display: inline_block"> <br>
+  align="right" style="display: inline_block"> <br>
       <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </div>
 </div>
 
 <h3>🙋‍♀ Para contato, clique com o scroll do mouse para acessar minhas redes em outra aba:</h3>
