@@ -4,7 +4,7 @@
 ### 🤓 Atualmente estudando o módulo avançado de HTML e CSS. <br> Buscando sempre um código limpo e de qualidade.
 ### Sejam bem-vindos ao meu perfil, <br> e fiquem á vontade para contribuir da maneira que desejarem e puderem! 😊
 
-### 🙋‍♀ Para contato, verifiquem minhas redes. 
+### 🙋‍♀ Para contato, verifique minhas redes. 
 
 <div>
   <a href="https://github.com/alinemozer">
