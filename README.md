@@ -1,6 +1,6 @@
 ## Oi! 🤗
 ### ❤ Sou uma mãe e dona de casa, <br> que resolveu se aventurar no mundo da programação! ❤
-### 🤓 Atualmente estudando o módulo avançado de HTML e CSS. <br> Buscando sempre um código limpo e de qualidade. 🤓
+### 🤓 Atualmente estudando o módulo avançado de HTML e CSS. <br> Buscando sempre um código limpo e de qualidade. <br> Seguindo os estudos por Javascript e React. 🤓
 ### 😊 Sejam bem-vindos ao meu perfil, e fiquem á vontade para contribuir <br> da maneira que desejarem e puderem! 😊
 
 <div style="display: inline_block">
