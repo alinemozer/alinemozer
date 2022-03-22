@@ -9,6 +9,8 @@
   <a href ="mailto:alinemozer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href ="https://wa.me/5527999180477" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href ="https://www.instagram.com/alinemozer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc3280?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   
+   <br>
 
 <div style="display: inline_block">
   <a href="https://github.com/alinemozer">
