@@ -12,7 +12,7 @@
   <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
    
-   <h3> 🖱 Clique com o scroll do mouse e acesse minhas redes em outra aba:</h3>
+   <h3> 🖱 Clique com o scroll do mouse e acesse minhas redes em outras abas:</h3>
    
 <div>
    <a href ="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
