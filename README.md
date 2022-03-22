@@ -28,9 +28,7 @@
   ![Snake animation](https://github.com/alinemozer/alinemozer/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-<div height="200"
-  <img align="right" alt="aline-pic" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
+  <img align="right" height="330" alt="aline-pic" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
-</div>
 
