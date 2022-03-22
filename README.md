@@ -2,12 +2,7 @@
 #### ❤ Sou uma mãe e dona de casa, que resolveu se aventurar no mundo da programação! ❤
 #### 😊 Sejam bem-vindos ao meu perfil! 😊
 #### 😜 Fiquem à vontade para contribuir da maneira que puderem e desejarem! 😜
-   
-<div style="display: inline_block">
-  <a href="https://github.com/alinemozer">
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinemozer&layout=compact&langs_count=6&theme=calm"/>
-</div>
-   
+     
 <br>
    
 <div style="display: inline_block"> 
