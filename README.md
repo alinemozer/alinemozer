@@ -18,6 +18,7 @@
 </div>
    
    <h3> 🖱 Para contato, clique com o scroll do mouse e acesse minhas redes em outra aba:</h3>
+   
 <div>
    <a href ="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href ="mailto:alinemozer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -27,8 +28,8 @@
   ![Snake animation](https://github.com/alinemozer/alinemozer/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-<div width="100em">
-  <img align="right" alt="aline-pic" height="330" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
+<div height="200"
+  <img align="right" alt="aline-pic" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
 </div>
