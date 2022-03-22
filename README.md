@@ -1,12 +1,15 @@
 ## Oi! 🤗
 #### ❤ Sou uma mãe e dona de casa, que resolveu se aventurar no mundo da programação! ❤
-#### 😊 Sejam bem-vindos ao meu perfil! Fiquem à vontade para contribuir da maneira que puderem e desejarem! 😊
+#### 😊 Sejam bem-vindos ao meu perfil! 😊
+#### 😜 Fiquem à vontade para contribuir da maneira que puderem e desejarem! 😜
    
 <div style="display: inline_block">
   <a href="https://github.com/alinemozer">
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinemozer&layout=compact&langs_count=6&theme=calm"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinemozer&layout=compact&langs_count=6&theme=calm"/>
 </div>
-    
+   
+    <br>
+   
 <div style="display: inline_block"> 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
