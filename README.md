@@ -3,6 +3,13 @@
 #### 🤓 Atualmente estudo os módulos avançados de HTML e CSS,<br> buscando sempre um código limpo e de qualidade. <br> Em breve, seguirei os estudos por Javascript e React. 🤓
 #### 😊 Sejam muito bem-vindos ao meu perfil! <br> Fiquem à vontade para contribuir da maneira <br> que puderem e desejarem! 😊
 
+<h3> 🖱 Para contato, <br> clique com o scroll do mouse e acesse minhas redes em outra aba:</h3>
+<div>
+   <a href ="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href ="mailto:alinemozer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href ="https://wa.me/5527999180477" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href ="https://www.instagram.com/alinemozer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc3280?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 <div style="display: inline_block">
   <a href="https://github.com/alinemozer">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinemozer&layout=compact&langs_count=6&theme=calm"/>
@@ -16,15 +23,7 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-
-<h3> 🖱 Para contato, <br> clique com o scroll do mouse e acesse minhas redes em outra aba:</h3>
-  
-<div>
-   <a href ="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href ="mailto:alinemozer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href ="https://wa.me/5527999180477" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href ="https://www.instagram.com/alinemozer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc3280?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
+ 
   ![Snake animation](https://github.com/alinemozer/alinemozer/blob/output/github-contribution-grid-snake.svg)
 </div>
   
