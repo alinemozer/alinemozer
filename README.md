@@ -1,8 +1,7 @@
 ## Oi! 🤗
 #### ❤ Sou uma mãe e dona de casa, que resolveu se aventurar no mundo da programação! ❤
 #### 😊 Sejam bem-vindos ao meu perfil! 😊
-#### 😜 Fiquem à vontade para contribuir da maneira que puderem e desejarem! 😜
-     
+
 <br>
    
 <div style="display: inline_block"> 
