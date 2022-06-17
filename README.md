@@ -20,7 +20,7 @@
     
  <br>
   
-<img align="right" height="330" alt="aline-pic" src="https://drive.google.com/file/d/15dYItapmk-LbyiOFH_0eGezDoxOV_saZ/view?usp=sharing" target="_blank"  style="max-width: 100%;">
+<img align="right" height="330" alt="aline-pic" src="https://discord.com/channels/938407662754869318/941012754519719966/987441774043742208" target="_blank"  style="max-width: 100%;">
   
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
     
