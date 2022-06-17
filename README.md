@@ -21,7 +21,7 @@
  <br>
     
  <p align="right">
-  <img src="https://drive.google.com/file/d/15dYItapmk-LbyiOFH_0eGezDoxOV_saZ/view?usp=sharing" width="330">
+  <img src="https://cdn.discordapp.com/attachments/941012754519719966/987441773838233640/output_ugvSc7.gif" width="330">
 </p>
   
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
