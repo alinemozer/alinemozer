@@ -20,9 +20,7 @@
     
  <br>
     
- <p align="right">
-  <img src="https://cdn.discordapp.com/attachments/941012754519719966/987441773838233640/output_ugvSc7.gif" width="330">
-</p>
+ <img align="right" height="330" alt="aline-pic" src="https://cdn.discordapp.com/attachments/941012754519719966/987441773838233640/output_ugvSc7.gif" target="_blank"  style="max-width: 100%;">
   
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
     
