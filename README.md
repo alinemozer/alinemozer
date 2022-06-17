@@ -22,7 +22,7 @@
     
  <br>
   
- <img align="right" height="330" alt="aline-pic" src="[https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png](https://discord.com/channels/938407662754869318/941012754519719966/987441774043742208)" target="_blank" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
+ <img align="right" height="330" alt="aline-pic" src= target="_blank" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
   
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
     
