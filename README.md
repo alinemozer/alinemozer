@@ -21,8 +21,8 @@
 </div>
     
  <br>
-  
-  <img align="right" height="330" alt="aline-pic" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" target="_blank" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
+    
+<img align="right" height="330" alt="aline-pic" src="https://www.canva.com/design/DAFD4p77KTo/zqCbJxCpC07fJL6Uo45ZtA/edit?utm_content=DAFD4p77KTo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
   
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
     
