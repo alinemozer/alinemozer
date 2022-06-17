@@ -19,7 +19,7 @@
    <a href ="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href ="mailto:alinemozer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href ="https://wa.me/5527999180477" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href ="https://www.instagram.com/alinemozer/" target="_blank"><img src="https://img.icons8.com/doodle/96/undefined/instagram--v1.png"/></a>
+  <a href ="https://www.instagram.com/alinemozer/" target="_blank"><img src="https://img.icons8.com/doodle/48/undefined/instagram--v1.png"/></a>
  
   ![Snake animation](https://github.com/alinemozer/alinemozer/blob/output/github-contribution-grid-snake.svg)
 </div>
