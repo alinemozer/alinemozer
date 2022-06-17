@@ -1,8 +1,8 @@
 ## Oi! 🤗
-#### ❤ Sou uma mãe e dona de casa, que resolveu se aventurar no mundo da programação! ❤
-#### 😊 Sejam bem-vindos ao meu perfil! 😊
+#### ❤ Sou uma mãe e dona de casa, <br>que resolveu se aventurar no mundo da programação!
 
 <br>
+#### 🤓 Tecnologias que utilizo: <br>
 <div style="display: inline_block"> 
   <img src="https://img.icons8.com/dusk/64/undefined/html-5.png"/>
   <img src="https://img.icons8.com/dusk/64/undefined/css3.png"/>
