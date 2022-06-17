@@ -7,8 +7,8 @@
 <div style="display: inline_block"> 
   <img src="https://img.icons8.com/dusk/64/undefined/html-5.png"/>
   <img src="https://img.icons8.com/dusk/64/undefined/css3.png"/>
-  <img src="https://img.icons8.com/dusk/64/undefined/javascript.png"/>
-  <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img src="https://img.icons8.com/dusk/64/undefined/javascript-logo.png"/>
+  <img src="https://img.icons8.com/dusk/64/undefined/react.png"/>
 </div>
    
             
