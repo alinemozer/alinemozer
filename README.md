@@ -19,9 +19,7 @@
 </div>
     
  <br>
-    <div>
-    <img align="right" height="330" alt="aline-pic" src="https://cdn.discordapp.com/attachments/941012754519719966/987441773838233640/output_ugvSc7.gif" style="max-width: 100%;">
-    </div>
+<img align="right" height="330" alt="aline-pic" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" target="_blank" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
   
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
     
