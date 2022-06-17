@@ -22,7 +22,7 @@
     
  <br>
     
-
+<img src="https://picrew.me/shareImg/org/202206/338224_FxnEchve.png">
   
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
     
