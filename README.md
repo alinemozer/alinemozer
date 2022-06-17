@@ -12,7 +12,7 @@
    
             
           
-   <h3>Clique com o scroll do mouse e acesse minhas redes:</h3>
+   <h3>🖱 Clique com o scroll do mouse e acesse minhas redes:</h3>
    
 <div>
    <a href ="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.icons8.com/dusk/64/undefined/linkedin--v1.png"/>
