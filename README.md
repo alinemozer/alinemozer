@@ -15,7 +15,7 @@
    <h3>Clique com o scroll do mouse e acesse minhas redes:</h3>
    
 <div>
-   <a href ="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.icons8.com/doodle/48/undefined/linkedin--v2.png"/></a>
+   <a href ="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.icons8.com/dusk/64/undefined/whatsapp.png"/>
   <a href ="mailto:alinemozer@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/48/undefined/gmail.png"/></a>
   <a href ="https://wa.me/5527999180477" target="_blank"><img src="https://img.icons8.com/dusk/64/undefined/whatsapp.png"/>
   <a href ="https://www.instagram.com/alinemozer/" target="_blank"><img src="https://img.icons8.com/doodle/48/undefined/instagram--v1.png"/></a>
