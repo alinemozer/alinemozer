@@ -21,8 +21,8 @@
 </div>
     
  <br>
-    
-<img src="https://picrew.me/shareImg/org/202206/338224_FxnEchve.png">
+   
+ <img align="right" height="330" alt="aline-pic" src="https://gifmaker.me/PlayGIFAnimation.php?folder=2022061707AvK0uFuSjAwceJiGTQuevw&file=output_ugvSc7.gif" target="_blank" data-canonical-src="https://share-cdn.picrew.me/shareImg/org/202203/338224_vx3Im8PI.png" style="max-width: 100%;">
   
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
     
