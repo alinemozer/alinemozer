@@ -8,11 +8,9 @@
   <img src="https://img.icons8.com/dusk/64/undefined/javascript-logo.png"/>
   <img src="https://img.icons8.com/dusk/64/undefined/react.png"/>
 </div>
-   
-            
+         
           
    <h4>🖱 Clique com o scroll do mouse e acesse minhas redes:</h4>
-   
 <div>
    <a href ="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.icons8.com/dusk/64/undefined/linkedin--v1.png"/>
   <a href ="mailto:alinemozer@gmail.com" target="_blank"><img src="https://img.icons8.com/dusk/64/undefined/gmail.png"/>
