@@ -20,7 +20,7 @@
     
  <br>
  
-<img align="right" height="330" alt="aline-pic" src="https://https://github.com/alinemozer/alinemozer/blob/main/gifgithub.gif" style="max-width: 100%;">
+<img align="right" height="330" alt="aline-pic" src="https://github.com/alinemozer/alinemozer/blob/main/gif-music-github.gif" style="max-width: 100%;">
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
     
