@@ -1,4 +1,6 @@
-## Oi! 🤗
+
+<h2>Oi!<img align="right" width="35" src="https://media0.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif?cid=ecf05e47bvtq43ubdc7bsff9jerhd9hm3jylycjovnb52esv&rid=giphy.gif&ct=s"/></h2>
+
 ### ❤ Sou uma mãe e dona de casa, <br>que resolveu se aventurar no mundo da programação!
 
 ### 🤓 Tecnologias que utilizo:
@@ -33,7 +35,7 @@
     
  <br>
  
-<img align="right" height="330" alt="aline-pic" src="https://github.com/alinemozer/alinemozer/blob/main/gif-music-github.gif" style="max-width: 100%;">
+<img align="right" height="360" alt="aline-pic" src="https://github.com/alinemozer/alinemozer/blob/main/gif-music-github.gif" style="max-width: 100%;">
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
     
