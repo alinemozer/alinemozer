@@ -17,7 +17,7 @@
 </div>
          
           
-   <h3>🖱 Minhas redes:</h3>
+   <h3>🖱 Clique com o scroll do mouse <br> para acessar minhas redes em outras abas:</h3>
 <!-- <div>
   <a href ="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.icons8.com/dusk/64/undefined/linkedin--v1.png"/></a>
   <a href ="mailto:alinemozer@gmail.com" target="_blank"><img src="https://img.icons8.com/dusk/64/undefined/gmail.png"/></a>
