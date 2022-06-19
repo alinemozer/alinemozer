@@ -1,5 +1,5 @@
 
-<h2>Oie, tudo bem!? <img align="right" width="50" src="https://media0.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif?cid=ecf05e47bvtq43ubdc7bsff9jerhd9hm3jylycjovnb52esv&rid=giphy.gif&ct=s"/></h2>
+<h2>Oie, tudo bem!? <img align="right" width="75" src="https://media0.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif?cid=ecf05e47bvtq43ubdc7bsff9jerhd9hm3jylycjovnb52esv&rid=giphy.gif&ct=s"/></h2>
 
 ### ❤ Sou uma mãe e dona de casa, <br>que resolveu se aventurar no mundo da programação!
 
