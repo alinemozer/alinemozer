@@ -1,7 +1,7 @@
 ## Oi! 🤗
-#### ❤ Sou uma mãe e dona de casa, <br>que resolveu se aventurar no mundo da programação!
+### ❤ Sou uma mãe e dona de casa, <br>que resolveu se aventurar no mundo da programação!
 
-#### 🤓 Tecnologias que utilizo:
+### 🤓 Tecnologias que utilizo:
 <div style="display: inline_block"> 
 <!--   <img src="https://img.icons8.com/dusk/64/undefined/html-5.png"/>
   <img src="https://img.icons8.com/dusk/64/undefined/css3.png"/>
@@ -17,7 +17,7 @@
 </div>
          
           
-   <h4>🖱 Minhas redes:</h4>
+   <h3>🖱 Minhas redes:</h3>
 <!-- <div>
   <a href ="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img src="https://img.icons8.com/dusk/64/undefined/linkedin--v1.png"/></a>
   <a href ="mailto:alinemozer@gmail.com" target="_blank"><img src="https://img.icons8.com/dusk/64/undefined/gmail.png"/></a>
