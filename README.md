@@ -17,6 +17,8 @@
   <img width="60" src="https://media4.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=790b76115547fd6f1b0c29af82b0f947a6a8f5b04d63e31c&rid=giphy.gif&ct=s"/>
   <img width="95" src="https://media1.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e47ko949hs5gkz9ylnsdr676wm6pf16fpnha58t4e0w&rid=giphy.gif&ct=s"/>
   <img width="45" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif?cid=ecf05e47fbpp4sngy0gdd5b85ynxcgs7fpw2yf4ynrnjyx3q&rid=giphy.gif&ct=s"/>
+  <img width="55" src="https://media3.giphy.com/media/jIOZXbIEiND1rwhO6m/giphy.gif"/>
+  
 </div>   
           
    <h3>🖱 Clique com o scroll do mouse <br> para acessar minhas redes em outras abas:</h3>
