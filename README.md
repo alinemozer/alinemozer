@@ -3,7 +3,7 @@
 
 ### ❤ Sou uma mãe e dona de casa, que resolveu se aventurar <br> no mundo da programação! Seja muito bem-vind@ ao meu perfil!
 
-### 🤓 Tecnologias que utilizo e estou aprendendo:
+### 🤓 Tecnologias e ferramentas que utilizo e estou aprendendo:
 <div style="display: inline_block"> 
 <!--   <img src="https://img.icons8.com/dusk/64/undefined/html-5.png"/>
   <img src="https://img.icons8.com/dusk/64/undefined/css3.png"/>
