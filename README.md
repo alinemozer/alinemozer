@@ -1,7 +1,8 @@
 
-<h2>Olá, tudo certinho!? 
+<h2>Olá, tudo certinho!? <img align="right" alt="html" width="75" src="https://media4.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif?cid=ecf05e47nxqbcyktabcs1r8zpp5yzo40ql8ykg9lcfxgfshj&rid=giphy.gif&ct=s"/>
 
-### ❤ Sou uma mãe e dona de casa, que resolveu se aventurar <br> no mundo da programação! Seja muito bem-vind@ ao meu perfil!
+
+### ❤ Sou uma mãe e dona de casa, que resolveu se aventurar no mundo da programação! <br> Seja muito bem-vind@ ao meu perfil!
 
 ### 🤓 Tecnologias e ferramentas que utilizo e estou aprendendo:
 <div style="display: inline_block"> 
