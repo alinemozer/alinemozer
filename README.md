@@ -6,7 +6,7 @@
 
 ### 🤓 Tecnologias e ferramentas que utilizo e estou aprendendo:
 <div style="display: inline_block"> 
-<!--   <img src="https://img.icons8.com/dusk/64/undefined/html-5.png"/>
+<!-- <img src="https://img.icons8.com/dusk/64/undefined/html-5.png"/>
   <img src="https://img.icons8.com/dusk/64/undefined/css3.png"/>
   <img src="https://img.icons8.com/dusk/64/undefined/javascript-logo.png"/>
   <img src="https://img.icons8.com/dusk/64/undefined/react.png"/> -->
