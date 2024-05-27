@@ -32,7 +32,7 @@
 <div style="display: inline_block">
   <a href ="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img alt ="linkedin" src="https://img.icons8.com/doodle/55/undefined/linkedin--v1.png"/></a>
   <a href ="mailto:alinemozer@gmail.com" target="_blank"><img alt ="gmail" src="https://img.icons8.com/doodle/55/undefined/gmail.png"/></a>
-  <--<a href ="https://wa.me/5527999180477" target="_blank"><img alt ="whatsapp" src="https://img.icons8.com/doodle/55/undefined/whatsapp.png"/></a>-->
+  <!-- <a href ="https://wa.me/5527999180477" target="_blank"><img alt ="whatsapp" src="https://img.icons8.com/doodle/55/undefined/whatsapp.png"/></a> -->
   <a href ="https://www.instagram.com/alinemozer/" target="_blank"><img alt ="instagram" src="https://img.icons8.com/doodle/60/undefined/instagram--v1.png"/></a>
 </div>
     
