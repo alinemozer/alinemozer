@@ -32,7 +32,7 @@
 <div style="display: inline_block">
   <a href ="https://www.linkedin.com/in/aline-mozer-baptista-8b9749231/" target="_blank"><img alt ="linkedin" src="https://img.icons8.com/doodle/55/undefined/linkedin--v1.png"/></a>
   <a href ="mailto:alinemozer@gmail.com" target="_blank"><img alt ="gmail" src="https://img.icons8.com/doodle/55/undefined/gmail.png"/></a>
-  <a href ="https://wa.me/5527999180477" target="_blank"><img alt ="whatsapp" src="https://img.icons8.com/doodle/55/undefined/whatsapp.png"/></a>
+  <--<a href ="https://wa.me/5527999180477" target="_blank"><img alt ="whatsapp" src="https://img.icons8.com/doodle/55/undefined/whatsapp.png"/></a>-->
   <a href ="https://www.instagram.com/alinemozer/" target="_blank"><img alt ="instagram" src="https://img.icons8.com/doodle/60/undefined/instagram--v1.png"/></a>
 </div>
     
@@ -41,6 +41,4 @@
 <img align="right" height="330" alt="aline-gif" src="https://github.com/alinemozer/alinemozer/blob/main/gif-music-github.gif" style="max-width: 100%;">
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12165858419)
-    
-![Snake animation](https://github.com/alinemozer/alinemozer/blob/output/github-contribution-grid-snake.svg)
 
