@@ -38,5 +38,5 @@
     
  <br>
  
-<img align="right" height="330" alt="aline-gif" src="https://github.com/alinemozer/alinemozer/blob/main/gif-music-github.gif" style="max-width: 100%;">
+<img align="right" height="100" alt="aline-gif" src="https://github.com/alinemozer/alinemozer/blob/main/gif-music-github.gif" style="max-width: 100%;">
 
